@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "101",
+  "base_artist": "Sangatsu No Phantasia",
+  "createdAt": "2025-12-20T02:48:57.447933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "Fish Leong",
+      "has_synced": true,
+      "path": "select/01_101_Fish_Leong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "梁静茹",
+      "has_synced": true,
+      "path": "select/02_101_梁静茹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Auf der Flucht - 101 BPM",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/03_Auf_der_Flucht_-_101_BPM_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "101 Dalmatas (feat. Marvin Cruz)",
+      "artist": "Yung Beef feat. Goa, Clutchill & Marvin Cruz",
+      "has_synced": true,
+      "path": "select/04_101_Dalmatas_(feat._Marvin_Cruz)_Yung_Beef_feat._Goa,_Clutchill_&_Marvin_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "101 Dalmatas",
+      "artist": "Yung Beef x GOA x Clutchill x Marvin Cruz",
+      "has_synced": true,
+      "path": "select/05_101_Dalmatas_Yung_Beef_x_GOA_x_Clutchill_x_Marvin_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Straight In At 101",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/06_Straight_In_At_101_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Straight In At 101",
+      "artist": "Los Campesinos!",
+      "has_synced": false,
+      "path": "select/07_Straight_In_At_101_Los_Campesinos!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sex Therapy 101 (Skit)",
+      "artist": "Ying Yang Twins",
+      "has_synced": false,
+      "path": "select/08_Sex_Therapy_101_(Skit)_Ying_Yang_Twins.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Biology 101",
+      "artist": "Pi’erre Bourne",
+      "has_synced": true,
+      "path": "select/09_Biology_101_Pi’erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/10_101_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/11_101_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "Albert Hammond Jr",
+      "has_synced": true,
+      "path": "select/12_101_Albert_Hammond_Jr.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "101",
+      "artist": "Albert Jr. Hammond",
+      "has_synced": true,
+      "path": "select/13_101_Albert_Jr._Hammond.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pimpology 101",
+      "artist": "Above the Law",
+      "has_synced": false,
+      "path": "select/14_Pimpology_101_Above_the_Law.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "produk 29 [101]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/15_produk_29_[101]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chemistry 101",
+      "artist": "9th Wonder & Buckshot",
+      "has_synced": false,
+      "path": "select/16_Chemistry_101_9th_Wonder_&_Buckshot.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chemistry 101",
+      "artist": "Buckshot & 9th Wonder",
+      "has_synced": false,
+      "path": "select/17_Chemistry_101_Buckshot_&_9th_Wonder.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bomber (One More Time) [16-101-15]",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": false,
+      "path": "select/18_Bomber_(One_More_Time)_[16-101-15]_Orchestral_Manoeuvres_In_The_Dark.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Highway 101",
+      "artist": "Father",
+      "has_synced": true,
+      "path": "select/19_Highway_101_Father.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "101",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": false,
+      "path": "select/pl_01_101_Sangatsu_no_Phantasia.txt"
+    }
+  ]
+}
